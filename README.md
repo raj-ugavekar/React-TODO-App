@@ -1,6 +1,6 @@
-# React To-Do App
+# Reactjs To-Do Web App
 
-A simple and beginner-friendly To-Do list application built with **React**. Users can add tasks, view them in a list, and delete them when completed. The app uses **localStorage** to save tasks so they persist even after refreshing the page.
+A simple and beginner-friendly **To-Do Web App** built with **Reactjs**. Users can add tasks, view them in a list, and delete them when completed. The app uses **localStorage** to save tasks so they persist even after refreshing the page.
 
 ---
 
